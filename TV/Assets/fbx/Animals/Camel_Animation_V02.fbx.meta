@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 2a4ee82e305f4de458be9a5dbf2a8a60
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: camel:camelo
+    100002: //RootNode
+    100004: front_legJoints_const_grpcamel
+    100006: group1
+    100008: group2
+    100010: group4
+    100012: group5
+    100014: head_jntcamel
+    100016: headEnd_jntcamel
+    100018: Joints
+    100020: L_back_coffinEnd_jntcamel
+    100022: L_back_fetlock_jntcamel
+    100024: L_back_foot_jntcamel
+    100026: L_back_lowLeg_jntcamel
+    100028: L_back_pastern_jntcamel
+    100030: L_back_upLeg_jntcamel
+    100032: L_back_upLegTwist1_jntcamel
+    100034: L_back_upLegTwist2_jntcamel
+    100036: L_back_upLegTwist_aimConstGrpcamel
+    100038: L_back_upLegTwist_grpcamel
+    100040: L_back_upLegTwist_upVectorGrpcamel
+    100042: L_backLeg_twistCtrlcamel
+    100044: L_front_coffin_jntcamel
+    100046: L_front_coffinEnd_jntcamel
+    100048: L_front_fetlock_jntcamel
+    100050: L_front_foot_jntcamel
+    100052: L_front_lowLeg_jntcamel
+    100054: L_front_pastern_jntcamel
+    100056: L_front_shoulder_jntcamel
+    100058: L_front_upLeg_jntcamel
+    100060: L_hip_jnt1camel
+    100062: L_hip_jnt2camel
+    100064: neck_jnt1camel
+    100066: neck_jnt2camel
+    100068: neck_jnt3camel
+    100070: neck_jnt4camel
+    100072: neck_jnt5camel
+    100074: R_back_coffinEnd_jntcamel
+    100076: R_back_fetlock_jntcamel
+    100078: R_back_foot_jntcamel
+    100080: R_back_lowLeg_jntcamel
+    100082: R_back_pastern_jntcamel
+    100084: R_back_upLeg_jntcamel
+    100086: R_front_coffin_jntcamel
+    100088: R_front_coffinEnd_jntcamel
+    100090: R_front_fetlock_jntcamel
+    100092: R_front_foot_jntcamel
+    100094: R_front_lowLeg_jntcamel
+    100096: R_front_pastern_jntcamel
+    100098: R_front_shoulder_jntcamel
+    100100: R_front_upLeg_jntcamel
+    100102: R_hip_jnt1camel
+    100104: R_hip_jnt2camel
+    100106: root_jntcamel
+    100108: spine1_jntcamel
+    100110: spine2_jntcamel
+    100112: spine3_jntcamel
+    100114: spine4_jntcamel
+    100116: spine5_jntcamel
+    100118: spine6_jntcamel
+    100120: spine7_jntcamel
+    400000: camel:camelo
+    400002: //RootNode
+    400004: front_legJoints_const_grpcamel
+    400006: group1
+    400008: group2
+    400010: group4
+    400012: group5
+    400014: head_jntcamel
+    400016: headEnd_jntcamel
+    400018: Joints
+    400020: L_back_coffinEnd_jntcamel
+    400022: L_back_fetlock_jntcamel
+    400024: L_back_foot_jntcamel
+    400026: L_back_lowLeg_jntcamel
+    400028: L_back_pastern_jntcamel
+    400030: L_back_upLeg_jntcamel
+    400032: L_back_upLegTwist1_jntcamel
+    400034: L_back_upLegTwist2_jntcamel
+    400036: L_back_upLegTwist_aimConstGrpcamel
+    400038: L_back_upLegTwist_grpcamel
+    400040: L_back_upLegTwist_upVectorGrpcamel
+    400042: L_backLeg_twistCtrlcamel
+    400044: L_front_coffin_jntcamel
+    400046: L_front_coffinEnd_jntcamel
+    400048: L_front_fetlock_jntcamel
+    400050: L_front_foot_jntcamel
+    400052: L_front_lowLeg_jntcamel
+    400054: L_front_pastern_jntcamel
+    400056: L_front_shoulder_jntcamel
+    400058: L_front_upLeg_jntcamel
+    400060: L_hip_jnt1camel
+    400062: L_hip_jnt2camel
+    400064: neck_jnt1camel
+    400066: neck_jnt2camel
+    400068: neck_jnt3camel
+    400070: neck_jnt4camel
+    400072: neck_jnt5camel
+    400074: R_back_coffinEnd_jntcamel
+    400076: R_back_fetlock_jntcamel
+    400078: R_back_foot_jntcamel
+    400080: R_back_lowLeg_jntcamel
+    400082: R_back_pastern_jntcamel
+    400084: R_back_upLeg_jntcamel
+    400086: R_front_coffin_jntcamel
+    400088: R_front_coffinEnd_jntcamel
+    400090: R_front_fetlock_jntcamel
+    400092: R_front_foot_jntcamel
+    400094: R_front_lowLeg_jntcamel
+    400096: R_front_pastern_jntcamel
+    400098: R_front_shoulder_jntcamel
+    400100: R_front_upLeg_jntcamel
+    400102: R_hip_jnt1camel
+    400104: R_hip_jnt2camel
+    400106: root_jntcamel
+    400108: spine1_jntcamel
+    400110: spine2_jntcamel
+    400112: spine3_jntcamel
+    400114: spine4_jntcamel
+    400116: spine5_jntcamel
+    400118: spine6_jntcamel
+    400120: spine7_jntcamel
+    2100000: Camel1
+    4300000: camel:camelo
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: camel:camelo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

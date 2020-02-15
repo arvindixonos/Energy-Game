@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 761e60709a3de244cb2a6d9a766fd023
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GE SS
+  fontNames:
+  - GE SS
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 01e34a5de25a76c4ea6748b1c4afea87, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

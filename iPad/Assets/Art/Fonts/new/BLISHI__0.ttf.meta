@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7a676baac6945e040b0e036cac3d2b26
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BlissHeavyItalic
+  fontNames:
+  - BlissHeavyItalic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3ab41c9b4e09d09438da004cab447f94, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

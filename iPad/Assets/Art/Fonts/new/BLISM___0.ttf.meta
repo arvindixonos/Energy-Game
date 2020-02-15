@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f2013b61a1d3ce847894acf6582e095b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BlissMedium
+  fontNames:
+  - BlissMedium
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 61a55239a12ada14a85991063487d43c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

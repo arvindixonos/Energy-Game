@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2588ee3de4a3a8b4f8178577635014f5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BlissExtraBoldItalic
+  fontNames:
+  - BlissExtraBoldItalic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 99d9273578ea74d4eadac5fdc143313c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
